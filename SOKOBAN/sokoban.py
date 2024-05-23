@@ -1,5 +1,5 @@
 #!../bin/python3
-import discordpy
+
 import sys
 import pygame
 import string
